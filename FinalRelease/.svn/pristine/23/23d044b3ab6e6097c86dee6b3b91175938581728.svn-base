@@ -1,0 +1,8 @@
+The software is owned by Zichang Guo, Harvey Chen and Litong Shen.
+The compatible android version for this project is Android 4.4 or above.
+
+1. check out FinalRelease files (AndroidManifest.xml, java, res) into app/src/main
+2. check out test files (androidTest) into app/src
+3. import OpenCV in android studio, follow the instruction 
+	http://stackoverflow.com/questions/27406303/opencv-in-android-studio
+4. Run the APP, and follow the instruction in home page.
